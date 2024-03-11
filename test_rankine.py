@@ -1,3 +1,4 @@
+# I got help from ChatGPT.
 # Importing from rankine.py
 from rankine import rankine
 
