@@ -1,3 +1,4 @@
+# I got help from ChatGPT.
 from Steam import steam
 
 class rankine():
